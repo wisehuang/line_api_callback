@@ -1,6 +1,6 @@
 # Line Messaging API Rust Example
 
-This is an example Rust project that uses the Line Messaging API to verify and parse webhook events. It utilizes the `warp` web framework to handle HTTP requests.
+This is an example Rust project that uses the LINE Messaging API to verify and parse webhook events. It utilizes the `warp` web framework to handle HTTP requests.
 
 ## Project Structure
 
