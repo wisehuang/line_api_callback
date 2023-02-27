@@ -10,11 +10,9 @@ log = "0.4.17"
 env_logger = "0.10.0"
 serde_json = "1.0.93"
 hmac = "0.12.1"
-headers = "0.3.8"
 sha2 = "0.10.6"
 base64 = "0.21.0"
 config = "0.13.3"
-ring = "0.16.20"
 bytes = "1.4.0"
 
 [build]
