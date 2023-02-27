@@ -6,7 +6,7 @@ This is an example Rust project that uses the LINE Messaging API to verify and p
 
 - `main.rs`: The main entry point of the application. It sets up the `warp` routes and runs the web server.
 - `mod.rs`: Contains utility functions that are used in `main.rs`.
-- `config.toml`: Contains configuration settings for the Line Messaging API.
+- `config.toml`: Contains configuration settings for the LINE Messaging API.
 
 ## Dependencies
 
